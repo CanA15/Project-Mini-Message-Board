@@ -1,1 +1,1 @@
-# Project-Mini-Message-Board
+Simple Message Board built with Node.js and Express.
